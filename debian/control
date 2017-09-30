@@ -1,0 +1,14 @@
+Source: ev3dev-media
+Section: admin
+Priority: required
+Maintainer: David Lechner <david@lechnology.com>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 10)
+Vcs-Browser: https://github.com/ev3dev/ev3dev-media
+Vcs-Git: https://github.com/ev3dev/ev3dev-media.git
+
+Package: ev3dev-media
+Architecture: all
+Depends: ${misc:Depends}
+Description: ev3dev media files
+ This package contains images and sounds distributed with ev3dev.

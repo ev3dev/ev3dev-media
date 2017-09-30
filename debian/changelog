@@ -1,0 +1,5 @@
+ev3dev-media (1.0.0) testing; urgency=medium
+
+  * Initial release.
+
+ -- David Lechner <david@lechnology.com>  Sat, 30 Sep 2017 13:38:12 -0500
