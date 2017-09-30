@@ -29,9 +29,9 @@
         - [ ] hurt.png
         - [ ] knocked_out.png
         - [ ] love.png
-        - [ ] middle_left.png
-        - [ ] middle_right.png
-        - [ ] neutral.png
+        - [X] middle_left.png
+        - [X] middle_right.png
+        - [X] neutral.png
         - [ ] nuclear.png
         - [ ] pinch_left.png
         - [ ] pinch_middle.png
