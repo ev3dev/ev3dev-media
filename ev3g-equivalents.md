@@ -59,15 +59,15 @@
         - [ ] warning.png
     - [ ] lego
         - [ ] color_sensor.png
-        - [ ] ev3.png
-        - [ ] ev3_icon.png
+        - [ ] ~~ev3.png~~
+        - [ ] ~~ev3_icon.png~~
         - [ ] gyro_sensor.png
         - [ ] ir_beacon.png
         - [ ] ir_sensor.png
         - [ ] large_motor.png
-        - [ ] lego.png
+        - [ ] ~~lego.png~~
         - [ ] medium_motor.png
-        - [ ] mindstorms.png
+        - [ ] ~~mindstorms.png~~
         - [ ] sound_sensor.png
         - [ ] temp_sensor.png
         - [ ] touch_sensor.png
