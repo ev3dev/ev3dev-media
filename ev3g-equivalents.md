@@ -1,0 +1,270 @@
+- [ ] images
+    - [ ] expressions
+        - [ ] big_smile.png
+        - [ ] heart_large.png
+        - [ ] heart_small.png
+        - [ ] mouth_1 open.png
+        - [ ] mouth_1 shut.png
+        - [ ] mouth_2 open.png
+        - [ ] mouth_2 shut.png
+        - [ ] sad.png
+        - [ ] sick.png
+        - [ ] smile.png
+        - [ ] swearing.png
+        - [ ] talking.png
+        - [ ] wink.png
+        - [ ] zzz.png
+    - [ ] eyes
+        - [ ] angry.png
+        - [ ] awake.png
+        - [ ] black_eye.png
+        - [ ] bottom_left.png
+        - [ ] bottom_right.png
+        - [ ] crazy_1.png
+        - [ ] crazy_2.png
+        - [ ] disappointed.png
+        - [ ] dizzy.png
+        - [ ] down.png
+        - [ ] evil.png
+        - [ ] hurt.png
+        - [ ] knocked_out.png
+        - [ ] love.png
+        - [ ] middle_left.png
+        - [ ] middle_right.png
+        - [ ] neutral.png
+        - [ ] nuclear.png
+        - [ ] pinch_left.png
+        - [ ] pinch_middle.png
+        - [ ] pinch_right.png
+        - [ ] tear.png
+        - [ ] tired_left.png
+        - [ ] tired_middle.png
+        - [ ] tired_right.png
+        - [ ] toxic.png
+        - [ ] up.png
+        - [ ] winking.png
+    - [ ] information
+        - [ ] accept.png
+        - [ ] backward.png
+        - [ ] decline.png
+        - [ ] forward.png
+        - [ ] left.png
+        - [ ] no_go.png
+        - [ ] question_mark.png
+        - [ ] right.png
+        - [ ] stop_1.png
+        - [ ] stop_2.png
+        - [ ] thumbs_down.png
+        - [ ] thumbs_up.png
+        - [ ] warning.png
+    - [ ] lego
+        - [ ] color_sensor.png
+        - [ ] ev3.png
+        - [ ] ev3_icon.png
+        - [ ] gyro_sensor.png
+        - [ ] ir_beacon.png
+        - [ ] ir_sensor.png
+        - [ ] large_motor.png
+        - [ ] lego.png
+        - [ ] medium_motor.png
+        - [ ] mindstorms.png
+        - [ ] sound_sensor.png
+        - [ ] temp_sensor.png
+        - [ ] touch_sensor.png
+        - [ ] us_sensor.png
+    - [ ] objects
+        - [ ] bomb.png
+        - [ ] boom.png
+        - [ ] fire.png
+        - [ ] flowers.png
+        - [ ] forest.png
+        - [ ] lightning.png
+        - [ ] light_off.png
+        - [ ] light_on.png
+        - [ ] night.png
+        - [ ] pirate.png
+        - [ ] snow.png
+        - [ ] target.png
+    - [ ] progress
+        - [ ] bar_0.png
+        - [ ] bar_1.png
+        - [ ] bar_2.png
+        - [ ] bar_3.png
+        - [ ] bar_4.png
+        - [ ] dial_0.png
+        - [ ] dial_1.png
+        - [ ] dial_2.png
+        - [ ] dial_3.png
+        - [ ] dial_4.png
+        - [ ] dots_0.png
+        - [ ] dots_1.png
+        - [ ] dots_2.png
+        - [ ] dots_3.png
+        - [ ] hourglass_0.png
+        - [ ] hourglass_1.png
+        - [ ] hourglass_2.png
+        - [ ] timer_0.png
+        - [ ] timer_1.png
+        - [ ] timer_2.png
+        - [ ] timer_3.png
+        - [ ] timer_4.png
+        - [ ] water_level_0.png
+        - [ ] water_level_1.png
+        - [ ] water_level_2.png
+        - [ ] water_level_3.png
+    - [ ] system
+        - [ ] accept_1.png
+        - [ ] accept_2.png
+        - [ ] alert.png
+        - [ ] box.png
+        - [ ] busy_0.png
+        - [ ] busy_1.png
+        - [ ] decline_1.png
+        - [ ] decline_2.png
+        - [ ] dot_empty.png
+        - [ ] dot_full.png
+        - [ ] ev3_small.png
+        - [ ] play.png
+        - [ ] slider_0.png
+        - [ ] slider_1.png
+        - [ ] slider_2.png
+        - [ ] slider_3.png
+        - [ ] slider_4.png
+        - [ ] slider_5.png
+        - [ ] slider_6.png
+        - [ ] slider_7.png
+        - [ ] slider_8.png
+
+
+- [ ] sounds
+    - [X] animals
+        - [X] cat_purr.wav
+        - [X] dog_bark_1.wav
+        - [X] dog_bark_2.wav
+        - [X] dog_growl.wav
+        - [X] dog_sniff.wav
+        - [X] dog_whine.wav
+        - [X] elephant_call.wav
+        - [X] insect_buzz_1.wav
+        - [X] insect_buzz_2.wav
+        - [X] insect_chirp.wav
+        - [X] snake_hiss.wav
+        - [X] snake_rattle.wav
+        - [X] t-rex_roar.wav
+    - [X] colors
+        - [X] black.wav
+        - [X] blue.wav
+        - [X] brown.wav
+        - [X] green.wav
+        - [X] red.wav
+        - [X] white.wav
+        - [X] yellow.wav
+    - [X] communication
+        - [X] bravo.wav
+        - [X] ev3.wav
+        - [X] fantastic.wav
+        - [X] game_over.wav
+        - [X] goodbye.wav
+        - [X] good_job.wav
+        - [X] good.wav
+        - [X] go.wav
+        - [X] hello.wav
+        - [X] hi.wav
+        - [X] lego.wav
+        - [X] mindstorms.wav
+        - [X] morning.wav
+        - [X] no.wav
+        - [X] okay.wav
+        - [X] okey-dokey.wav
+        - [X] sorry.wav
+        - [X] thank_you.wav
+        - [X] yes.wav
+    - [X] expressions
+        - [X] boing.wav
+        - [X] boo.wav
+        - [X] cheering.wav
+        - [X] crunching.wav
+        - [X] crying.wav
+        - [X] fanfare.wav
+        - [X] kung_fu.wav
+        - [X] laughing_1.wav
+        - [X] laughing_2.wav
+        - [X] magic_wand.wav
+        - [X] ouch.wav
+        - [X] shouting.wav
+        - [X] smack.wav
+        - [X] sneezing.wav
+        - [X] snoring.wav
+        - [X] uh-oh.wav
+    - [X] information
+        - [X] activate.wav
+        - [X] analyze.wav
+        - [X] backwards.wav
+        - [X] color.wav
+        - [X] detected.wav
+        - [X] down.wav
+        - [X] error_alarm.wav
+        - [X] error.wav
+        - [X] flashing.wav
+        - [X] forward.wav
+        - [X] left.wav
+        - [X] object.wav
+        - [X] right.wav
+        - [X] searching.wav
+        - [X] start.wav
+        - [X] stop.wav
+        - [X] touch.wav
+        - [X] turn.wav
+        - [X] up.wav
+    - [ ] mechanical
+        - [X] airbrake.wav
+        - [X] air_release.wav
+        - [X] backing_alert.wav
+        - [X] horn_1.wav
+        - [X] horn_2.wav
+        - [X] laser.wav
+        - [X] motor_idle.wav
+        - [X] motor_start.wav
+        - [X] motor_stop.wav
+        - [X] ratchet.wav
+        - [X] sonar.wav
+        - [X] tick_tack.wav
+        - [ ] walk.wav
+    - [ ] movements
+        - [ ] arm_1.wav
+        - [ ] arm_2.wav
+        - [ ] arm_3.wav
+        - [ ] arm_4.wav
+        - [ ] drop_load.wav
+        - [ ] lift_load.wav
+        - [ ] servo_1.wav
+        - [ ] servo_2.wav
+        - [ ] servo_3.wav
+        - [ ] servo_4.wav
+        - [ ] snap.wav
+        - [X] speed_down.wav
+        - [X] speed_idle.wav
+        - [ ] speeding.wav
+        - [X] speed_up.wav
+    - [X] numbers
+        - [X] eight.wav
+        - [X] five.wav
+        - [X] four.wav
+        - [X] nine.wav
+        - [X] one.wav
+        - [X] seven.wav
+        - [X] six.wav
+        - [X] ten.wav
+        - [X] three.wav
+        - [X] two.wav
+        - [X] zero.wav
+    - [ ] system
+        - [X] click.wav
+        - [X] confirm.wav
+        - [ ] connect.wav
+        - [ ] download.wav
+        - [X] general_alert.wav
+        - [X] overpower.wav
+        - [ ] power_down.wav
+        - [ ] ready.wav
+        - [ ] start_up.wav
