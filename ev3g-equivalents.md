@@ -3,10 +3,10 @@
         - [ ] big_smile.png
         - [ ] heart_large.png
         - [ ] heart_small.png
-        - [ ] mouth_1 open.png
-        - [ ] mouth_1 shut.png
-        - [ ] mouth_2 open.png
-        - [ ] mouth_2 shut.png
+        - [ ] mouth_1_open.png
+        - [ ] mouth_1_shut.png
+        - [ ] mouth_2_open.png
+        - [ ] mouth_2_shut.png
         - [ ] sad.png
         - [ ] sick.png
         - [ ] smile.png
