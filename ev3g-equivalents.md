@@ -15,34 +15,34 @@
         - [ ] wink.png
         - [ ] zzz.png
     - [ ] eyes
-        - [ ] angry.png
-        - [ ] awake.png
+        - [X] angry.png
+        - [X] awake.png
         - [ ] black_eye.png
-        - [ ] bottom_left.png
-        - [ ] bottom_right.png
-        - [ ] crazy_1.png
-        - [ ] crazy_2.png
+        - [X] bottom_left.png
+        - [X] bottom_right.png
+        - [X] crazy_1.png
+        - [X] crazy_2.png
         - [ ] disappointed.png
-        - [ ] dizzy.png
-        - [ ] down.png
-        - [ ] evil.png
+        - [X] dizzy.png
+        - [X] down.png
+        - [X] evil.png
         - [ ] hurt.png
-        - [ ] knocked_out.png
+        - [X] knocked_out.png
         - [ ] love.png
         - [X] middle_left.png
         - [X] middle_right.png
         - [X] neutral.png
         - [ ] nuclear.png
-        - [ ] pinch_left.png
-        - [ ] pinch_middle.png
-        - [ ] pinch_right.png
+        - [X] pinch_left.png
+        - [X] pinch_middle.png
+        - [X] pinch_right.png
         - [ ] tear.png
-        - [ ] tired_left.png
-        - [ ] tired_middle.png
-        - [ ] tired_right.png
+        - [X] tired_left.png
+        - [X] tired_middle.png
+        - [X] tired_right.png
         - [ ] toxic.png
-        - [ ] up.png
-        - [ ] winking.png
+        - [X] up.png
+        - [X] winking.png
     - [ ] information
         - [ ] accept.png
         - [ ] backward.png
@@ -84,7 +84,7 @@
         - [ ] night.png
         - [ ] pirate.png
         - [ ] snow.png
-        - [ ] target.png
+        - [X] target.png
     - [ ] progress
         - [ ] bar_0.png
         - [ ] bar_1.png
