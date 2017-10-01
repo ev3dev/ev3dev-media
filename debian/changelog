@@ -1,3 +1,9 @@
+ev3dev-media (1.0.1) testing; urgency=medium
+
+  * More eyes images (and a target)
+
+ -- David Lechner <david@lechnology.com>  Sun, 01 Oct 2017 16:34:34 -0500
+
 ev3dev-media (1.0.0) testing; urgency=medium
 
   * Initial release.
