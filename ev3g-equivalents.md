@@ -43,20 +43,20 @@
         - [ ] toxic.png
         - [X] up.png
         - [X] winking.png
-    - [ ] information
-        - [ ] accept.png
-        - [ ] backward.png
-        - [ ] decline.png
-        - [ ] forward.png
-        - [ ] left.png
-        - [ ] no_go.png
-        - [ ] question_mark.png
-        - [ ] right.png
-        - [ ] stop_1.png
-        - [ ] stop_2.png
-        - [ ] thumbs_down.png
-        - [ ] thumbs_up.png
-        - [ ] warning.png
+    - [X] information
+        - [X] accept.png
+        - [X] backward.png
+        - [X] decline.png
+        - [X] forward.png
+        - [X] left.png
+        - [X] no_go.png
+        - [X] question_mark.png
+        - [X] right.png
+        - [X] stop_1.png
+        - [X] stop_2.png
+        - [X] thumbs_down.png
+        - [X] thumbs_up.png
+        - [X] warning.png
     - [ ] lego
         - [ ] color_sensor.png
         - [ ] ~~ev3.png~~
