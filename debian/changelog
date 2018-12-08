@@ -1,3 +1,10 @@
+ev3dev-media (1.1.2) stable; urgency=medium
+
+  * make sure all sounds are sampled at 22050Hz
+  * add some EV3 images
+
+ -- David Lechner <david@lechnology.com>  Fri, 07 Dec 2018 23:53:46 -0600
+
 ev3dev-media (1.1.1) stable; urgency=medium
 
   * add system/ready sound
