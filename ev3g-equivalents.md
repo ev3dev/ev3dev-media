@@ -266,5 +266,5 @@
         - [X] general_alert.wav
         - [X] overpower.wav
         - [ ] power_down.wav
-        - [ ] ready.wav
+        - [X] ready.wav
         - [ ] start_up.wav
