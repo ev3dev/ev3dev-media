@@ -59,8 +59,8 @@
         - [X] warning.png
     - [ ] lego
         - [ ] color_sensor.png
-        - [ ] ~~ev3.png~~
-        - [ ] ~~ev3_icon.png~~
+        - [X] ev3.png
+        - [X] ev3_icon.png
         - [ ] gyro_sensor.png
         - [ ] ir_beacon.png
         - [ ] ir_sensor.png
