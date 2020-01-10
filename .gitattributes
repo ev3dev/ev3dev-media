@@ -1,0 +1,3 @@
+debian/changelog merge=ours
+debian/gpb.conf merge=ours
+debian/release.sh merge=ours
