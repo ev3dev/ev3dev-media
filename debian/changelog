@@ -1,3 +1,9 @@
+ev3dev-media (1.1.2~bionic1) bionic; urgency=medium
+
+  * ev3dev-bionic
+
+ -- David Lechner <david@lechnology.com>  Fri, 10 Jan 2020 12:14:43 -0600
+
 ev3dev-media (1.1.2) stable; urgency=medium
 
   * make sure all sounds are sampled at 22050Hz
