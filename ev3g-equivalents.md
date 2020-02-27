@@ -14,33 +14,33 @@
         - [ ] talking.png
         - [ ] wink.png
         - [ ] zzz.png
-    - [ ] eyes
+    - [X] eyes
         - [X] angry.png
         - [X] awake.png
-        - [ ] black_eye.png
+        - [X] black_eye.png
         - [X] bottom_left.png
         - [X] bottom_right.png
         - [X] crazy_1.png
         - [X] crazy_2.png
-        - [ ] disappointed.png
+        - [X] disappointed.png
         - [X] dizzy.png
         - [X] down.png
         - [X] evil.png
-        - [ ] hurt.png
+        - [X] hurt.png
         - [X] knocked_out.png
-        - [ ] love.png
+        - [X] love.png
         - [X] middle_left.png
         - [X] middle_right.png
         - [X] neutral.png
-        - [ ] nuclear.png
+        - [X] nuclear.png
         - [X] pinch_left.png
         - [X] pinch_middle.png
         - [X] pinch_right.png
-        - [ ] tear.png
+        - [X] tear.png
         - [X] tired_left.png
         - [X] tired_middle.png
         - [X] tired_right.png
-        - [ ] toxic.png
+        - [X] toxic.png
         - [X] up.png
         - [X] winking.png
     - [X] information
