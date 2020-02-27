@@ -1,3 +1,9 @@
+ev3dev-media (1.2.0) stretch; urgency=medium
+
+  * Add remaining eyes images
+
+ -- David Lechner <david@lechnology.com>  Wed, 26 Feb 2020 20:17:38 -0600
+
 ev3dev-media (1.1.2) stable; urgency=medium
 
   * make sure all sounds are sampled at 22050Hz
